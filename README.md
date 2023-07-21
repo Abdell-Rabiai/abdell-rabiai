@@ -9,7 +9,7 @@
 
 - 👯 I study at 1337 information technology [CUBE3D](https://github.com/Abdell-Rabiai/Cube3D)
 
-- 📄 1337 is part of the famous 42 network of IT schools, It is a future-proof computer science training to educate the next generation of software engineers. The 42 program takes a project-based approach to progress and is designed to develop technical and people skills that match the expectations of the labor market. [PHILOSOPHERS](https://github.com/Abdell-Rabiai/philosophers)
+- 📄 1337 is part of the famous 42 network of IT schools, It is a future-proof computer science training to educate the next generation of software engineers. The 42 program takes a project-based approach to progress and is designed to develop technical and people skills that match the expectations of the labor market.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
