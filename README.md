@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdell-rabiai" alt="abdell-rabiai" /></a> </p>
 
-- 🔭 I’m currently working on my 1337 curriculm [MINISHELL](https://github.com/Abdell-Rabiai/Minishell)
+- 🔭 I’m currently working on my 1337 curriculm [MINISHELL](https://github.com/Abdell-Rabiai/Minishell) [CUBE3D](https://github.com/Abdell-Rabiai/Cube3D)
 
-- 👯 I study at 1337 information technology [CUBE3D](https://github.com/Abdell-Rabiai/Cube3D)
+- 👯 I study at 1337 information technology
 
 - 📄 1337 is part of the famous 42 network of IT schools, It is a future-proof computer science training to educate the next generation of software engineers. The 42 program takes a project-based approach to progress and is designed to develop technical and people skills that match the expectations of the labor market.
 
