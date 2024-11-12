@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdell-rabiai" alt="abdell-rabiai" /></a> </p>
 
-- 🔭 I’m currently working on my 1337 curriculm [MINISHELL](https://github.com/Abdell-Rabiai/Minishell) [CUBE3D](https://github.com/Abdell-Rabiai/Cube3D)
+- 🔭 I’m currently working on my 1337 curriculum
 
 - 👯 I study at 1337 information technology
 
