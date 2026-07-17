@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdelouahed Rabiai aka TABI3A</h1>
+<h1 align="center">Hi 👋, I'm Abdelouahed Rabiai</h1>
 <h3 align="center">A passionate Software engineer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdell-rabiai&label=Profile%20views&color=0e75b6&style=flat" alt="abdell-rabiai" /> </p>
